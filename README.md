@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Climate Change </title>
+<style>
+
+h1 {text-align: center;}
+h2 {text-align: center;}
+h3 {text-align: center;}
+img {text-align: center;}
+
+
+</style>
+</head>
+<body style="background-color:rgb(196, 164, 132);" > 
+
+<h1 style = "border:5px solid black;"> Climate Change: Number 1 problem of the globe</h1>
+<p style="text-align: center;"><p style="font-size:160%;">Ah yes, Global warming. The number 1 major issue on our planet because it's affecting us globally and it's getting worse. Here's why: but first, have you ever asked yourself what climate change is? well.</p>
+
+
+<br>
+
+<p align = "center" style ="font-size:140%;">It's a phenomenon that occurs within our globe that describes global warming. Global warming is caused by cutting down trees, burning fossil fuels and industrial activities. It's also worth mentioning that the "Greenhouse effect" also contributes to why global warming is happening. A phenomena that traps "greenhouse gases" within the earth. hence called a greenhouse.</p><br>
+
+<p align = "center" style ="font-size:160%;"> <b> Why does climate change happen and what are the signs?</b></p>
+
+<hr align = "center" color = "black" width =" 750" >
+<hr align = "center" color = "black" width =" 690" >
+<br>
+
+<p align = "center" style ="font-size:160%;"> happens because of these reasons: Rising Sea Level, It happens when thermal expansion is observed. When the ocean intakes too much heat and causes the water to expand, thus rising the sea levels. Second is Melting of Ice Caps and Glaciers, This also happens for the fact that Greenhouse Effect and Greenhouse Gases are working together. In which trapping heat that's melting our Ice away at Antarctica.</p><br>
+ 
+
+
+<p style="text-align: center;"><b>Learn more about Greenhouse Effect here below:</b>
+</p> 
+
+<center>
+<a href="https://science.nasa.gov/climate-change/faq/what-is-the-greenhouse-effect/">Greenhouse Effect</a> <br>
+<img src=https://th.bing.com/th/id/OIP.CmDUKn_A5emNPkZeYeDbeQAAAA?rs=1&pid=ImgDetMain height="500" width="700" style="border: 10px solid  rgb(92, 64, 51);"> 
+
+<br>
+
+<h2> Effects of Climate Change</h2> 
+
+<hr  color = "black" align = "Center"  width="500" >
+<hr  color = "black" align = "Center"  width="400" >
+
+<p align = "left" style ="font-size:160%;"><b> 1. Increased Temperature of Earth</b></p>
+
+<hr  color = "black" align = "left"  width="400" >
+<br>
+
+<p style="font-size:140%;">With the Greenhouse Effect included in Climate Change, The rising of temperature is expected to reach higher than normal because of trapped heat within the atmosphere, Called Greenhouse Gases.</p><br>
+ 
+
+
+<p align = "right" style ="font-size:160%;"><b> 2. Heavy Rainfall</b></p>
+
+
+<hr   color = "black" align = "right"  width="400" >
+<br>
+
+<p style="font-size:140%;"> Higher temp calls for more evaporation. And the ocean is heating up because of the gases. Causing intense rainfall and creating floods. Climate can also alter precipitation cycles, Resulting also in marine life slowly dying.</p><br>
+
+
+<p align = "left" style ="font-size:160%;"> <b>  3. Melting of Icebergs in the colder regions of the earth </b></p>
+
+<hr   color = "black" align = "left"  width="600" >
+<br>
+
+<p style="font-size:140%;"> Icebergs are melting in Antarctica because of the rising temperature in the earth's atmosphere. This way, Animals such as polar bears and penguins are slowly losing their homes because of ice melting. Therefore, The earth is also getting hotter since ice is slowly melting because natural ice is what keeps the earth cool.</p>
+<br>
+
+<p align = "right" style ="font-size:160%;"> <b>  4. Natural Wildfire </b></p>
+
+<hr   color = "black" align = "right"  width="400" >
+<br>
+
+<p style="font-size:140%;"> Natural Wildfire is occurring frequently in our era because of the extreme heat greenhouse gases cause. Leaving forests heated up and eventually on fire.</p><br>
+
+<h3> How we can contribute to slowing down Climate Change </h3><br>
+
+
+<p align = "left" style ="font-size:160%;"> <b> 1. Ending our reliance on fossil fuels</b></p>
+
+<hr   color = "black" align = "left"  width="400" >
+<br>
+
+<p style="text-align: center;"><p style="font-size:140%;">First is, what is fossil fuel to beginwith? Fossil fuels are non-renewable energy source that came from decayed ancient plants like coal. Non-renewable means it cannot be replenished in short it cannot be taken back. So ending our dependance on fossil fuel helps slowing down climate change because, burning these fuels releases greenhouse gases like carbon dioxide, which trap heat in the atmosphere and cause global warming.</p>
+
+<br>
+
+<p  align = "right" style ="font-size:160%;"> <b> 2. Renewable energy</b></p>
+
+<hr   color = "black" align = "right"  width="400" >
+<br>
+
+<p style="text-align: center;"><p style="font-size:140%;"> This process is different than the first that was introduced earlier, renewable energy is the opposite of non-renewable energy, because renewable energy can be replensihed and doesn't release harmful gases that affects our climate. The difference is instead of using fossil fuels,  we use natures natural energy. What I mean by that is using the natural energy of nature like winds, sunlight and water to produce renewable energy. 
+
+<br>
+
+
+
+<p align = "left" style ="font-size:160%;"> <b> 3. Better forestry management and sustainable agriculture</b></p>
+
+<hr   color = "black" align = "left"  width="750" >
+<br>
+
+<p style="text-align: center;"><p style="font-size:140%;"> Doing this helps to balance the economic and cultural needs of humans with protecting the environment. In short we need to properly use natural recources like wood and re-plant trees, because trees also helps us produce more oxygen by converting carbon dioxide into oxygen. Then we should also properly distribute food in our country and not waste a single thing.</p>
+
+<br>
+
+<h4 style="font-size:30px;"><b>Does climate change also  affect the activities of water?</b></h4>
+
+<hr align = "center" color = "black" width =" 690" >
+<br>
+
+<p style="text-align: center;"><p style="font-size:140%;"> Yes, not only does it make the water hot and ocean lives decrease. It also increases the level of the water. Why? because if we understood the meaning of climate change we should know by now that it affects the whole world. Making the water level rise because of the ice melting in the polar areas itch isn't supposed to happen. </p>
+
+
+<h5 style="font-size:30px;">Model To Track Water Level.</h5>
+
+<hr align = "center" color = "black" width =" 690" >
+<br>
+
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5p-YHg3Iy4Rae1wjTo0WX6iqfYJ6iKFyh4g&s height="500" width="700" style="border: 10px solid  rgb(92, 64, 51);"> 
+
+
+<br>
+
+
+<p style="text-align: center;"><p style="font-size:140%;"> This model can detect the water level of our ocean making it easy to detect the level that our ocean has risen. to use this you need to put it in a level because it still isn't water resistant or the main wires aren't. make sure all wires are properly placed so that there are no errors.</p>
+
+
+<h6 style="font-size:180%;">How can Trigonometric Ratios help?</h6>
+
+<hr align = "center" color = "black" width =" 690" >
+
+
+<p style="text-align: left;"><p style="font-size:160%;"><b> 1. Structure Elevation</b></p>
+
+<p style="text-align: left;"><p style="font-size:160%;"> Trigonometric Ratios can help us in a way that we create buildings to flood prone areas. by measuring how high the flood levels typically rise in that area, We can build the building in a higher point.</p>
+
+
+<p  style="text-align: left;"><p style="font-size:160%;"><b> 2. Protective Wall Barrier Installation</b></p>
+
+<p  style="text-align: left;"><p style="font-size:160%;"> Assuming that the flood level is already calculated using CAH in SOHCAHTOA, A mnemoic phrase in trigonomery, Opposite as the ground level and Hypotenuse as the flood level regardless of the intensity of the flood, We can install walls that propel the water back out Demonstrated as the model given below.</p>
+
+<br> 
+
+<img src= https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZMKobck_DGHA50Bgl_j050K-m3_Dvz_MGCg&s  width = "350" height = "350" style="border: 10px solid  rgb(92, 64, 51);">
+
+
+</p>
+</body>
+</html>
+
+</body>
+</html>
